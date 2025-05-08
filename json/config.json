@@ -1,12 +1,12 @@
 {
-  "name": "Template Magisk Modules Repository",
-  "website": null,
-  "support": null,
-  "donate": null,
+  "name": "Rem01 Projects",
+  "website": "https://mrepo.rem01gaming.dev/",
+  "support": "https://t.me/rem01shideout",
+  "donate": "https://t.me/rem01schannel/712",
   "submission": null,
-  "base_url": "https://example.com/",
-  "description": null,
-  "max_num": 2,
+  "base_url": "https://mrepo.rem01gaming.dev/",
+  "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device by Rem01Gaming ✨",
+  "max_num": 100,
   "enable_log": true,
   "log_dir": "log"
 }

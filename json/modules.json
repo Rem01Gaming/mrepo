@@ -1,42 +1,46 @@
 {
-  "id": "examplcom",
-  "name": "Template Magisk Modules Repository",
-  "website": null,
-  "support": null,
-  "donate": null,
+  "id": "mre01gdev",
+  "name": "Rem01 Projects",
+  "website": "https://mrepo.rem01gaming.dev/",
+  "support": "https://t.me/rem01shideout",
+  "donate": "https://t.me/rem01schannel/712",
   "submission": null,
-  "cover": "https://example.com/assets/cover.webp",
-  "description": null,
+  "cover": "https://mrepo.rem01gaming.dev/assets/cover.webp",
+  "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device by Rem01Gaming \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1746684764.406725
+    "timestamp": 1746697818.840231
   },
   "modules": [
     {
-      "id": "bindhosts",
-      "name": "bindhosts",
-      "version": "v2.0.2",
-      "versionCode": 202,
-      "author": "xx, KOWX712",
-      "description": "Systemless hosts for APatch, KernelSU and Magisk ",
-      "added": 1733301165,
-      "verified": true,
+      "id": "encore",
+      "name": "Encore Tweaks",
+      "version": "4.1 (862-cc92fbc-release)",
+      "versionCode": 862,
+      "author": "Rem01Gaming",
+      "description": "Special performance module for your Device.",
       "categories": [
-        "Adblocking and Hosts Files",
-        "APatch",
-        "KernelSU",
-        "Magisk"
+        "Performance",
+        "Gaming",
+        "Optimizer",
+        "WebUI"
       ],
-      "support": "https://github.com/bindhosts/bindhosts/issues",
+      "icon": "https://encore.rem01gaming.dev/logo.webp",
+      "homepage": "https://encore.rem01gaming.dev",
+      "donate": "https://t.me/rem01schannel/670",
+      "support": "https://t.me/rem01shideout",
+      "cover": "https://encore.rem01gaming.dev/ogp/default.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_manager.png",
-        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_webui.png",
-        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/manager_action.png"
+        "https://mrepo.rem01gaming.dev/assets/modules/encore/Screenshot_20250507-113403_MMRL.png",
+        "https://mrepo.rem01gaming.dev/assets/modules/encore/Screenshot_20250507-113408_MMRL.png",
+        "https://mrepo.rem01gaming.dev/assets/modules/encore/Screenshot_20250507-114133_ColorfulStage.png"
       ],
-      "license": "WTFPL",
-      "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
-      "timestamp": 1745837964.0,
-      "size": 101192,
+      "license": "Apache-2.0",
+      "readme": "https://raw.githubusercontent.com/Rem01Gaming/encore/main/README.md",
+      "verified": true,
+      "added": 0,
+      "timestamp": 1746527219.0,
+      "size": 854305,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -51,77 +55,58 @@
       },
       "track": {
         "type": "ONLINE_JSON",
-        "added": 1733301165,
-        "source": "https://github.com/backslashxx/bindhosts",
+        "added": null,
+        "source": "https://github.com/Rem01Gaming/encore",
         "antifeatures": null,
-        "build_metadata": "https://example.com/modules/bindhosts/track.yaml"
+        "build_metadata": "https://mrepo.rem01gaming.dev/modules/encore/track.yaml"
       },
       "versions": [
         {
-          "timestamp": 1735904596.0,
-          "version": "v1.8.5",
-          "versionCode": 185,
-          "zipUrl": "https://example.com/modules/bindhosts/v1.8.5_185.zip",
-          "changelog": "https://example.com/modules/bindhosts/v1.8.5_185.md",
-          "size": 31756
-        },
-        {
-          "timestamp": 1745837964.0,
-          "version": "v2.0.2",
-          "versionCode": 202,
-          "zipUrl": "https://example.com/modules/bindhosts/v2.0.2_202.zip",
-          "changelog": "https://example.com/modules/bindhosts/v2.0.2_202.md",
-          "size": 101192
+          "timestamp": 1746527219.0,
+          "version": "4.1 (862-cc92fbc-release)",
+          "versionCode": 862,
+          "zipUrl": "https://mrepo.rem01gaming.dev/modules/encore/4.1_862-cc92fbc-release.zip",
+          "changelog": "https://mrepo.rem01gaming.dev/modules/encore/4.1_862-cc92fbc-release.md",
+          "size": 854305
         }
       ]
     },
     {
-      "id": "mmrl_wpd",
-      "name": "WiFi Password Viewer for MMRL",
-      "version": "4.7.7",
-      "versionCode": 459,
-      "author": "Der_Googler, veez21 @ xda-developers",
-      "description": "View all your WiFi passwords and bluetooth devices inside MMRL",
-      "added": 1445340430.7142262,
-      "categories": [
-        "WebUI",
-        "Tweaks and Hacks",
-        "Miscellaneous"
-      ],
-      "support": "https://github.com/Googlers-Repo/wpd/issues",
-      "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
+      "id": "net-switch",
+      "name": "Net Switch",
+      "version": "1.2 (54-64b5764-release)",
+      "versionCode": 54,
+      "author": "Rem01Gaming",
+      "description": "Isolate apps from Internet access.",
       "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/1.jpg",
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/2.jpg",
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/3.jpg",
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/4.jpg"
-      ],
-      "timestamp": 1735764644.0,
-      "size": 462291,
+      "added": 0,
+      "timestamp": 1738815792.0,
+      "size": 18560,
       "permissions": [
+        "magisk.permission.SERVICE",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI"
       ],
       "features": {
+        "service": true,
         "action": true,
         "webroot": true
       },
       "track": {
-        "type": "GIT",
-        "added": 1445340430.7142262,
-        "source": "https://github.com/Googlers-Repo/wpd.git",
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/Rem01Gaming/net-switch",
         "antifeatures": null,
-        "build_metadata": "https://example.com/modules/mmrl_wpd/track.yaml"
+        "build_metadata": "https://mrepo.rem01gaming.dev/modules/net-switch/track.yaml"
       },
       "versions": [
         {
-          "timestamp": 1735764644.0,
-          "version": "4.7.7",
-          "versionCode": 459,
-          "zipUrl": "https://example.com/modules/mmrl_wpd/4.7.7_459.zip",
-          "changelog": "",
-          "size": 462291
+          "timestamp": 1738815792.0,
+          "version": "1.2 (54-64b5764-release)",
+          "versionCode": 54,
+          "zipUrl": "https://mrepo.rem01gaming.dev/modules/net-switch/1.2_54-64b5764-release.zip",
+          "changelog": "https://mrepo.rem01gaming.dev/modules/net-switch/1.2_54-64b5764-release.md",
+          "size": 18560
         }
       ]
     }

@@ -2,6 +2,13 @@ name: sync-build-deploy
 on:
   schedule:
     - cron: '0 */6 * * *'
+  push:
+    paths:
+      - '.github/workflows/sync_build_deploy.yml'
+      - 'assets/**'
+      - 'json/config.json'
+      - 'modules/*/track.yaml'
+      - 'index.html'
 
   workflow_dispatch:
    inputs:

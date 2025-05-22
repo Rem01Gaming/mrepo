@@ -9,14 +9,14 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device by Rem01Gaming \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1747874457.482805
+    "timestamp": 1747882072.610415
   },
   "modules": [
     {
       "id": "encore",
       "name": "Encore Tweaks",
-      "version": "4.2 (899-84bbcb5-release)",
-      "versionCode": 899,
+      "version": "4.3 (933-36f8bbc-release)",
+      "versionCode": 933,
       "author": "Rem01Gaming",
       "description": "Special performance module for your Device.",
       "categories": [
@@ -39,8 +39,8 @@
       "readme": "https://raw.githubusercontent.com/Rem01Gaming/encore/main/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1747038441.0,
-      "size": 855270,
+      "timestamp": 1747734914.0,
+      "size": 856289,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -76,6 +76,14 @@
           "zipUrl": "https://mrepo.rem01gaming.dev/modules/encore/4.2_899-84bbcb5-release.zip",
           "changelog": "https://mrepo.rem01gaming.dev/modules/encore/4.2_899-84bbcb5-release.md",
           "size": 855270
+        },
+        {
+          "timestamp": 1747734914.0,
+          "version": "4.3 (933-36f8bbc-release)",
+          "versionCode": 933,
+          "zipUrl": "https://mrepo.rem01gaming.dev/modules/encore/4.3_933-36f8bbc-release.zip",
+          "changelog": "https://mrepo.rem01gaming.dev/modules/encore/4.3_933-36f8bbc-release.md",
+          "size": 856289
         }
       ]
     },

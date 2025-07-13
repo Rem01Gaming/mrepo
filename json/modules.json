@@ -9,14 +9,14 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device by Rem01Gaming \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1752387134.999249
+    "timestamp": 1752408888.725826
   },
   "modules": [
     {
       "id": "encore",
       "name": "Encore Tweaks",
-      "version": "4.5 (1004-f8bf8f8-release)",
-      "versionCode": 1004,
+      "version": "4.6 (1080-2fa4940-release)",
+      "versionCode": 1080,
       "author": "Rem01Gaming",
       "description": "Special performance module for your Device.",
       "categories": [
@@ -39,8 +39,8 @@
       "readme": "https://raw.githubusercontent.com/Rem01Gaming/encore/main/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1749637021.0,
-      "size": 175853,
+      "timestamp": 1752404014.0,
+      "size": 142900,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ACTION",
@@ -98,6 +98,14 @@
           "zipUrl": "https://mrepo.rem01gaming.dev/modules/encore/4.5_1004-f8bf8f8-release.zip",
           "changelog": "https://mrepo.rem01gaming.dev/modules/encore/4.5_1004-f8bf8f8-release.md",
           "size": 175853
+        },
+        {
+          "timestamp": 1752404014.0,
+          "version": "4.6 (1080-2fa4940-release)",
+          "versionCode": 1080,
+          "zipUrl": "https://mrepo.rem01gaming.dev/modules/encore/4.6_1080-2fa4940-release.zip",
+          "changelog": "https://mrepo.rem01gaming.dev/modules/encore/4.6_1080-2fa4940-release.md",
+          "size": 142900
         }
       ]
     },

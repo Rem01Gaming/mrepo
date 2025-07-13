@@ -41,6 +41,14 @@
       "zipUrl": "https://mrepo.rem01gaming.dev/modules/encore/4.5_1004-f8bf8f8-release.zip",
       "changelog": "https://mrepo.rem01gaming.dev/modules/encore/4.5_1004-f8bf8f8-release.md",
       "size": 175853
+    },
+    {
+      "timestamp": 1752404014.0,
+      "version": "4.6 (1080-2fa4940-release)",
+      "versionCode": 1080,
+      "zipUrl": "https://mrepo.rem01gaming.dev/modules/encore/4.6_1080-2fa4940-release.zip",
+      "changelog": "https://mrepo.rem01gaming.dev/modules/encore/4.6_1080-2fa4940-release.md",
+      "size": 142900
     }
   ]
 }

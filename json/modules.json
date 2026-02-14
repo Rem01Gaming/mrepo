@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device by Rem01Gaming \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1771007270.612337
+    "timestamp": 1771030586.989972
   },
   "modules": [
     {
@@ -52,7 +52,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 356,
+      "stars": 355,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,

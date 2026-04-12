@@ -57,6 +57,14 @@
       "zipUrl": "https://mrepo.rem01gaming.dev/modules/encore/5.0_1294-667f35e-release.zip",
       "changelog": "https://mrepo.rem01gaming.dev/modules/encore/5.0_1294-667f35e-release.md",
       "size": 3668051
+    },
+    {
+      "timestamp": 1775817019.0,
+      "version": "5.1.1 (1444-9ef7449-release)",
+      "versionCode": 1444,
+      "zipUrl": "https://mrepo.rem01gaming.dev/modules/encore/5.1.1_1444-9ef7449-release.zip",
+      "changelog": "https://mrepo.rem01gaming.dev/modules/encore/5.1.1_1444-9ef7449-release.md",
+      "size": 2359424
     }
   ]
 }

@@ -9,14 +9,14 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device by Rem01Gaming \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1783169521.70665
+    "timestamp": 1783190858.802491
   },
   "modules": [
     {
       "id": "encore",
       "name": "Encore Tweaks",
-      "version": "5.1.1 (1444-9ef7449-release)",
-      "versionCode": 1444,
+      "version": "5.2 (1523-15eb446-main)",
+      "versionCode": 1523,
       "author": "Rem01Gaming",
       "description": "Special performance module for your Device.",
       "categories": [
@@ -39,8 +39,8 @@
       "readme": "https://raw.githubusercontent.com/Rem01Gaming/encore/main/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1775817019.0,
-      "size": 2359424,
+      "timestamp": 1783176888.0,
+      "size": 2407775,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ACTION",
@@ -54,7 +54,7 @@
         "webroot": true,
         "apks": true
       },
-      "stars": 480,
+      "stars": 481,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -126,6 +126,14 @@
           "zipUrl": "https://mrepo.rem01gaming.dev/modules/encore/5.1.1_1444-9ef7449-release.zip",
           "changelog": "https://mrepo.rem01gaming.dev/modules/encore/5.1.1_1444-9ef7449-release.md",
           "size": 2359424
+        },
+        {
+          "timestamp": 1783176888.0,
+          "version": "5.2 (1523-15eb446-main)",
+          "versionCode": 1523,
+          "zipUrl": "https://mrepo.rem01gaming.dev/modules/encore/5.2_1523-15eb446-main.zip",
+          "changelog": "https://mrepo.rem01gaming.dev/modules/encore/5.2_1523-15eb446-main.md",
+          "size": 2407775
         }
       ]
     },

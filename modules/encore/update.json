@@ -73,6 +73,14 @@
       "zipUrl": "https://mrepo.rem01gaming.dev/modules/encore/5.2_1523-15eb446-main.zip",
       "changelog": "https://mrepo.rem01gaming.dev/modules/encore/5.2_1523-15eb446-main.md",
       "size": 2407775
+    },
+    {
+      "timestamp": 1783654888.0,
+      "version": "5.2.1 (1533-361ab0e-main)",
+      "versionCode": 1533,
+      "zipUrl": "https://mrepo.rem01gaming.dev/modules/encore/5.2.1_1533-361ab0e-main.zip",
+      "changelog": "https://mrepo.rem01gaming.dev/modules/encore/5.2.1_1533-361ab0e-main.md",
+      "size": 2397096
     }
   ]
 }

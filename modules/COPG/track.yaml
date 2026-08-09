@@ -1,0 +1,7 @@
+id: COPG
+enable: true
+verified: false
+update_to: https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/update.json
+support: https://t.me/COPG_module
+donate: https://t.me/COPG_module/530
+license: Apache-2.0

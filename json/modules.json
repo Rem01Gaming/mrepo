@@ -9,9 +9,73 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device by Rem01Gaming \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1786277998.621189
+    "timestamp": 1786279828.509353
   },
   "modules": [
+    {
+      "id": "COPG",
+      "name": "\u2728 COPG SPOOF \u2728",
+      "version": "6.3.0",
+      "versionCode": 630,
+      "author": "AlirezaParsi",
+      "description": "Spoof your device for games/apps to unlock new features.",
+      "donate": "https://t.me/COPG_module/72",
+      "support": "https://t.me/TheAOSP",
+      "license": "Apache-2.0 license",
+      "categories": [
+        "Gaming",
+        "Tweaks and Spoofing",
+        "WebUI",
+        "Miscellaneous",
+        "Zygisk"
+      ],
+      "cover": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/module/banner.png",
+      "icon": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/webroot/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260614-121040_KsuWebUI.png",
+        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260614-121848_WebUI%20X.png",
+        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260614-121127_KsuWebUI.png",
+        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260614-121204_KsuWebUI.png"
+      ],
+      "readme": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/README.md",
+      "note": {
+        "title": "COPG Module",
+        "message": "Spoof your device for games/apps to unlock new features."
+      },
+      "verified": false,
+      "added": 0,
+      "timestamp": 1786097576.0,
+      "size": 8027601,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.ZYGISK",
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG",
+        "mmrl.permission.DEXS"
+      ],
+      "features": {
+        "service": true,
+        "zygisk": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": null,
+        "antifeatures": null,
+        "build_metadata": "https://mrepo.rem01gaming.dev/modules/COPG/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1786097576.0,
+          "version": "6.3.0",
+          "versionCode": 630,
+          "zipUrl": "https://mrepo.rem01gaming.dev/modules/COPG/6.3.0_630.zip",
+          "changelog": "https://mrepo.rem01gaming.dev/modules/COPG/6.3.0_630.md",
+          "size": 8027601
+        }
+      ]
+    },
     {
       "id": "encore",
       "name": "Encore Tweaks",
@@ -22,8 +86,7 @@
       "categories": [
         "Performance",
         "Gaming",
-        "Optimizer",
-        "WebUI"
+        "Optimizer"
       ],
       "icon": "https://encore.rem01gaming.dev/logo.webp",
       "homepage": "https://encore.rem01gaming.dev",
@@ -152,6 +215,9 @@
       "versionCode": 54,
       "author": "Rem01Gaming",
       "description": "Isolate apps from Internet access.",
+      "donate": "https://t.me/rem01schannel/670",
+      "support": "https://t.me/rem01shideout",
+      "license": "Apache-2.0",
       "verified": true,
       "added": 0,
       "timestamp": 1738815792.0,

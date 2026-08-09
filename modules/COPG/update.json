@@ -1,0 +1,14 @@
+{
+  "id": "COPG",
+  "timestamp": 1786097576.0,
+  "versions": [
+    {
+      "timestamp": 1786097576.0,
+      "version": "6.3.0",
+      "versionCode": 630,
+      "zipUrl": "https://mrepo.rem01gaming.dev/modules/COPG/6.3.0_630.zip",
+      "changelog": "https://mrepo.rem01gaming.dev/modules/COPG/6.3.0_630.md",
+      "size": 8027601
+    }
+  ]
+}

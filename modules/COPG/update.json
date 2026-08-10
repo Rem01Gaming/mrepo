@@ -9,6 +9,14 @@
       "zipUrl": "https://mrepo.rem01gaming.dev/modules/COPG/6.3.0_630.zip",
       "changelog": "https://mrepo.rem01gaming.dev/modules/COPG/6.3.0_630.md",
       "size": 8027601
+    },
+    {
+      "timestamp": 1786354567.0,
+      "version": "6.3.1",
+      "versionCode": 631,
+      "zipUrl": "https://mrepo.rem01gaming.dev/modules/COPG/6.3.1_631.zip",
+      "changelog": "https://mrepo.rem01gaming.dev/modules/COPG/6.3.1_631.md",
+      "size": 8027287
     }
   ]
 }

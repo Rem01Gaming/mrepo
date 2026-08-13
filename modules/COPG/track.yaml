@@ -1,9 +1,9 @@
 donate: https://t.me/COPG_module/530
 enable: true
 id: COPG
-last_update: 1786354567.0
+last_update: 1786601492.0
 license: Apache-2.0
 support: https://t.me/COPG_module
 update_to: https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/update.json
 verified: false
-versions: 2
+versions: 3

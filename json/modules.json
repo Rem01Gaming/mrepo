@@ -9,14 +9,14 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device by Rem01Gaming \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1786582180.509277
+    "timestamp": 1786604677.953879
   },
   "modules": [
     {
       "id": "COPG",
       "name": "\u2728 COPG SPOOF \u2728",
-      "version": "6.3.1",
-      "versionCode": 631,
+      "version": "6.4.0",
+      "versionCode": 640,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games/apps to unlock new features.",
       "donate": "https://t.me/COPG_module/72",
@@ -44,8 +44,8 @@
       },
       "verified": false,
       "added": 0,
-      "timestamp": 1786354567.0,
-      "size": 8027287,
+      "timestamp": 1786601492.0,
+      "size": 8645825,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ZYGISK",
@@ -81,6 +81,14 @@
           "zipUrl": "https://mrepo.rem01gaming.dev/modules/COPG/6.3.1_631.zip",
           "changelog": "https://mrepo.rem01gaming.dev/modules/COPG/6.3.1_631.md",
           "size": 8027287
+        },
+        {
+          "timestamp": 1786601492.0,
+          "version": "6.4.0",
+          "versionCode": 640,
+          "zipUrl": "https://mrepo.rem01gaming.dev/modules/COPG/6.4.0_640.zip",
+          "changelog": "https://mrepo.rem01gaming.dev/modules/COPG/6.4.0_640.md",
+          "size": 8645825
         }
       ]
     },

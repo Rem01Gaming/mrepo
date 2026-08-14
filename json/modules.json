@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device by Rem01Gaming \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1786690979.034717
+    "timestamp": 1786703474.432888
   },
   "modules": [
     {
@@ -61,7 +61,7 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
-        "source": null,
+        "source": "https://t.me/COPG_module",
         "antifeatures": null,
         "build_metadata": "https://mrepo.rem01gaming.dev/modules/COPG/track.yaml"
       },

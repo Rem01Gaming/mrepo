@@ -9,14 +9,14 @@
   "description": "A collection of handy tools and tweaks for your Android device \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1788140751.926505
+    "timestamp": 1788177303.495514
   },
   "modules": [
     {
       "id": "COPG",
       "name": "\u2728 COPG SPOOF \u2728",
-      "version": "6.6.0",
-      "versionCode": 660,
+      "version": "6.7.0",
+      "versionCode": 670,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games/apps to unlock new features.",
       "donate": "https://t.me/COPG_module/72",
@@ -44,8 +44,8 @@
       },
       "verified": false,
       "added": 0,
-      "timestamp": 1787679543.0,
-      "size": 9565421,
+      "timestamp": 1788173104.0,
+      "size": 11435525,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ZYGISK",
@@ -105,6 +105,14 @@
           "zipUrl": "https://mrepo.rem01gaming.dev/modules/COPG/6.6.0_660.zip",
           "changelog": "https://mrepo.rem01gaming.dev/modules/COPG/6.6.0_660.md",
           "size": 9565421
+        },
+        {
+          "timestamp": 1788173104.0,
+          "version": "6.7.0",
+          "versionCode": 670,
+          "zipUrl": "https://mrepo.rem01gaming.dev/modules/COPG/6.7.0_670.zip",
+          "changelog": "https://mrepo.rem01gaming.dev/modules/COPG/6.7.0_670.md",
+          "size": 11435525
         }
       ]
     },

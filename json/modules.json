@@ -9,14 +9,14 @@
   "description": "A collection of handy tools and tweaks for your Android device \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1791461849.620339
+    "timestamp": 1791498688.574794
   },
   "modules": [
     {
       "id": "COPG",
       "name": "\u2728 COPG SPOOF \u2728",
-      "version": "7.3.0",
-      "versionCode": 730,
+      "version": "7.5.0",
+      "versionCode": 750,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games/apps to unlock new features. Website: https://vendors.copg.my",
       "donate": "https://t.me/COPG_module/72",
@@ -41,14 +41,15 @@
       "readme": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/README.md",
       "note": {
         "title": "COPG Module",
-        "message": "Spoof your device for games/apps to unlock new features."
+        "message": "Advanced Android customization & spoofing \u2014 device, app, and system-level control with ROM-level capabilities."
       },
       "verified": false,
       "added": 0,
-      "timestamp": 1790691384.0,
-      "size": 8234942,
+      "timestamp": 1791482916.0,
+      "size": 9082458,
       "permissions": [
         "magisk.permission.SERVICE",
+        "magisk.permission.SEPOLICY",
         "magisk.permission.ZYGISK",
         "kernelsu.permission.WEBUI",
         "mmrl.permission.WEBUI_CONFIG",
@@ -56,6 +57,7 @@
       ],
       "features": {
         "service": true,
+        "sepolicy": true,
         "zygisk": true,
         "webroot": true
       },
@@ -146,6 +148,14 @@
           "zipUrl": "https://mrepo.rem01gaming.dev/modules/COPG/7.3.0_730.zip",
           "changelog": "https://mrepo.rem01gaming.dev/modules/COPG/7.3.0_730.md",
           "size": 8234942
+        },
+        {
+          "timestamp": 1791482916.0,
+          "version": "7.5.0",
+          "versionCode": 750,
+          "zipUrl": "https://mrepo.rem01gaming.dev/modules/COPG/7.5.0_750.zip",
+          "changelog": "https://mrepo.rem01gaming.dev/modules/COPG/7.5.0_750.md",
+          "size": 9082458
         }
       ]
     },
@@ -306,7 +316,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 329,
+      "stars": 330,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,

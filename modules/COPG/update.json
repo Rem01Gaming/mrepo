@@ -113,6 +113,14 @@
       "zipUrl": "https://mrepo.rem01gaming.dev/modules/COPG/7.6.1_761.zip",
       "changelog": "https://mrepo.rem01gaming.dev/modules/COPG/7.6.1_761.md",
       "size": 10511947
+    },
+    {
+      "timestamp": 1793875845.0,
+      "version": "7.7.0",
+      "versionCode": 770,
+      "zipUrl": "https://mrepo.rem01gaming.dev/modules/COPG/7.7.0_770.zip",
+      "changelog": "https://mrepo.rem01gaming.dev/modules/COPG/7.7.0_770.md",
+      "size": 10546613
     }
   ]
 }

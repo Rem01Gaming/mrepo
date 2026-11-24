@@ -9,7 +9,7 @@
   "description": "A collection of handy tools and tweaks for your Android device \u2728",
   "metadata": {
     "version": 1,
-    "timestamp": 1795451694.014853
+    "timestamp": 1795490969.459406
   },
   "modules": [
     {
@@ -257,7 +257,7 @@
         "webroot": true,
         "apks": true
       },
-      "stars": 534,
+      "stars": 533,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
